@@ -8,6 +8,7 @@ public class GitConflictsApplication {
 
 	public static void main(String[] args) {
 		String name ="mike";
+		int a = 6;
 		int x = 100;
 		int y = 200;
 		double z = 34.5;
