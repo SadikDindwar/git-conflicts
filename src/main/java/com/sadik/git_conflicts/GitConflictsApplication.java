@@ -14,6 +14,7 @@ public class GitConflictsApplication {
 		boolean isPresent = false;
 		float f = 23.4f;
 		String id = "12"
+		int a = 90;
 		SpringApplication.run(GitConflictsApplication.class, args);
 	}
 
