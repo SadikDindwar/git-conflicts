@@ -10,6 +10,7 @@ public class GitConflictsApplication {
 		String name ="mike";
 		int x = 100;
 		int y = 200; 
+		double z = 34.5;
 		SpringApplication.run(GitConflictsApplication.class, args);
 	}
 
