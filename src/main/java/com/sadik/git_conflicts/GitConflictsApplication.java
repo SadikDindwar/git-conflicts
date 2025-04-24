@@ -11,8 +11,8 @@ public class GitConflictsApplication {
 		int x = 100;
 		int y = 200;
 		double z = 34.5;
-		float f = 23.4f;
 		boolean isPresent = false;
+		float f = 23.4f;
 		SpringApplication.run(GitConflictsApplication.class, args);
 	}
 
