@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitConflictsApplication {
 
 	public static void main(String[] args) {
+		int age = 34;
 		String name ="mike";
 		int x = 100;
 		int y = 200;
