@@ -16,6 +16,7 @@ public class GitConflictsApplication {
 		float f = 23.4f;
 		String id = "12"
 		int a = 90;
+		String s = "sadik";
 		SpringApplication.run(GitConflictsApplication.class, args);
 	}
 
