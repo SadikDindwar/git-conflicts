@@ -9,7 +9,8 @@ public class GitConflictsApplication {
 	public static void main(String[] args) {
 		String name ="mike";
 		int x = 100;
-		int y = 200; 
+		int y = 200;
+		boolean isPresent = false;
 		SpringApplication.run(GitConflictsApplication.class, args);
 	}
 
